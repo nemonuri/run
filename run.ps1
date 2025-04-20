@@ -1,4 +1,4 @@
 
 # ...
 
-Remove-Item $PSScriptRoot
+Remove-Item $PSScriptRoot -Force -Recurse
